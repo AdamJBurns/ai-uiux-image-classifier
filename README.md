@@ -40,7 +40,7 @@ renames them in one click. The interface is styled to Vercel's
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/ai-uiux-image-classifier.git
+git clone https://github.com/AdamJBurns/ai-uiux-image-classifier.git
 cd ai-uiux-image-classifier
 python -m venv .venv
 # Windows:  .venv\Scripts\activate
@@ -122,4 +122,4 @@ GUI-free so it stays testable.
 
 ## License
 
-[MIT](LICENSE) — update the copyright holder in `LICENSE` to your name.
+[MIT](LICENSE) 
